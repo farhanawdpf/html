@@ -1,0 +1,17 @@
+body{ 
+    background-color: cadetblue;
+}
+h1{ 
+    background-color: blue;
+    color: aliceblue;
+}
+#taskOne{ 
+    background-color: aliceblue;
+    color: blueviolet;
+}
+.row{ 
+    background-color: aquamarine;
+    color: coral;
+    width: 200px;
+    height: 100px;
+}
